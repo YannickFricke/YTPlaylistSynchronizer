@@ -1,0 +1,9 @@
+{
+  "name": "YouTubePlaylistSynchronizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "chokidar-cli": "^1.2.2"
+  }
+}
